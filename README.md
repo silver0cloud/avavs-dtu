@@ -381,8 +381,7 @@ Saved to: `outputs/comparative_dashboard.png`
 
 | File | Description |
 |------|-------------|
-| `umap_3d_train.html` | 3D UMAP coloured by class, hover labels |
-| `umap_3d_val.html` | Validation split 3D UMAP |
+| `umap_3d.html` | 3D UMAP coloured by class, hover labels |
 
 ---
 
@@ -391,7 +390,7 @@ Saved to: `outputs/comparative_dashboard.png`
 ```
 avavs-dtu/
 │
-├──  AVAVS_pipeline_.ipynb        ← Main pipeline notebook (run this)
+├──  AVAVSS_pipeline_.ipynb        ← Main pipeline notebook (run this)
 │
 ├──  README.md                    ← This file
 │
@@ -432,7 +431,7 @@ avavs-dtu/
 
 Click the badge to open directly in Colab with GPU runtime:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/silver0cloud/avavs-dtu/blob/main/AVAVS_pipeline_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/silver0cloud/avavs-dtu/blob/main/AVAVSS_pipeline.ipynb)
 
 **Steps in Colab:**
 1. Set runtime to **GPU** (Runtime → Change runtime type → T4 GPU)
@@ -469,7 +468,7 @@ source venv/bin/activate          # Linux/Mac
 pip install -r requirements.txt
 
 # 4. Launch Jupyter
-jupyter notebook AVAVS_pipeline_v2.ipynb
+jupyter notebook AVAVSS_pipeline.ipynb
 ```
 
 #### `requirements.txt`
