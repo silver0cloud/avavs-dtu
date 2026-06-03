@@ -23,7 +23,7 @@
 
 <br/>
 
-**[Open in Colab](#-quick-start)** · **[View Results](#-results--benchmarks)** · **[Architecture](#-model-architectures)** · **[Dataset](#-dataset)** · **[Report](#-technical-report)**
+**[Open in Colab](#quick-start)** · **[View Results](#results--benchmarks)** · **[Architecture](#model-architectures)** · **[Dataset](#dataset)** · **[Report](#technical-report)**
 
 <br/>
 
@@ -35,18 +35,18 @@
 
 | # | Section | Description |
 |---|---------|-------------|
-| 1 | [Project Overview](#-project-overview) | Research context, motivation, objective |
-| 2 | [Pipeline Architecture](#-pipeline-architecture) | End-to-end flowchart |
-| 3 | [Dataset](#-dataset) | AVMIT, TFRecord format, pre-extracted embeddings |
-| 4 | [Model Architectures](#-model-architectures) | LSR, CMD, Baselines |
-| 5 | [Evaluation Framework](#-evaluation-framework) | Metrics: CosSim, MSE, R@K, MedR, Latency |
-| 6 | [Results & Benchmarks](#-results--benchmarks) | Comparative tables |
-| 7 | [Visualisations](#-visualisations) | PCA, t-SNE, UMAP, Dashboards |
-| 8 | [Repository Structure](#-repository-structure) | File tree |
-| 9 | [Quick Start](#-quick-start) | Setup & run instructions |
-| 10 | [Configuration](#-configuration) | All hyperparameters explained |
-| 11 | [Technical Report](#-technical-report) | Deliverable link |
-| 12 | [References](#-references) | Papers & prior art |
+| 1 | [Project Overview](#project-overview) | Research context, motivation, objective |
+| 2 | [Pipeline Architecture](#pipeline-architecture) | End-to-end flowchart |
+| 3 | [Dataset](#dataset) | AVMIT, TFRecord format, pre-extracted embeddings |
+| 4 | [Model Architectures](#model-architectures) | LSR, CMD, Baselines |
+| 5 | [Evaluation Framework](#evaluation-framework) | Metrics: CosSim, MSE, R@K, MedR, Latency |
+| 6 | [Results & Benchmarks](#results--benchmarks) | Comparative tables |
+| 7 | [Visualisations](#visualisations) | PCA, t-SNE, UMAP, Dashboards |
+| 8 | [Repository Structure](#repository-structure) | File tree |
+| 9 | [Quick Start](#quick-start) | Setup & run instructions |
+| 10 | [Configuration](#configuration) | All hyperparameters explained |
+| 11 | [Technical Report](#technical-report) | Deliverable link |
+| 12 | [References](#references) | Papers & prior art |
 
 ---
 
