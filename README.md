@@ -420,7 +420,7 @@ avavs-dtu/
 │   └── avmit_embeddings.npz         ← Cached parsed embeddings
 │
 ├──  report/                      ← Technical report (deliverable)
-│   └── technical_report.pdf
+│   └── Audio-Visual-Approximation-of-Video-Semantic-Space.pdf
 │
 └──  requirements.txt              ← Python dependencies
 ---
@@ -542,7 +542,7 @@ class Config:
 
 The full technical report covering methodology, results, interpretation, and analysis is available here:
 
-> **[Technical Report (PDF)](report/technical_report.pdf)**
+> **[Technical Report (PDF)](report/Audio-Visual-Approximation-of-Video-Semantic-Space.pdf)**
 
 ### Report Contents
 
@@ -564,7 +564,7 @@ The full technical report covering methodology, results, interpretation, and ana
 
 All trained model weights are stored on this Google Drive:
 
-> **[ Model Weights (Google Drive)](https://drive.google.com/drive/folders/YOUR_FOLDER_ID)**
+> **[ Model Weights (Google Drive)](https://drive.google.com/drive/folders/1CZ2SpHGIDa26_SK5awyYsEBcScYliygq)**
 
 ## References
 
