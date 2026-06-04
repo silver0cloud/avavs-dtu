@@ -23,7 +23,7 @@
 
 <br/>
 
-**[Open in Colab](#quick-start)** · **[View Results](#results--benchmarks)** · **[Architecture](#model-architectures)** · **[Dataset](#dataset)** · **[Report](#technical-report)**
+**[View Results](#results--benchmarks)** · **[Architecture](#model-architectures)** · **[Dataset](#dataset)** · **[Report](#technical-report)**
 
 <br/>
 
